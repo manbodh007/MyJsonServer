@@ -2,7 +2,7 @@
         "products":[
                     {
                       "id":1,
-                      "image":'https://zdnet3.cbsistatic.com/hub/i/r/2020/03/19/4d0e4e03-c980-43db-aa0f-2572aefcf89f/thumbnail/770x433/36d847f1d279f3a0cbaf29e1e9fc576f/surface-laptop-3-13-5-header.jpg',
+                      "image":"https://zdnet3.cbsistatic.com/hub/i/r/2020/03/19/4d0e4e03-c980-43db-aa0f-2572aefcf89f/thumbnail/770x433/36d847f1d279f3a0cbaf29e1e9fc576f/surface-laptop-3-13-5-header.jpg",
                       "name":'microsoft surface',
                       "price":90000,
                       "rating":4.5,
@@ -10,7 +10,7 @@
                     },
                     {
                       "id":2,
-                      "image":'https://www.notebookcheck.net/uploads/tx_nbc2/SamsungGalaxyS20Ultra__1_.JPG',
+                      "image":"https://www.notebookcheck.net/uploads/tx_nbc2/SamsungGalaxyS20Ultra__1_.JPG",
                       "name":"samsung s20 ultra",
                       "price":97500,
                       "rating":4.7,
@@ -18,7 +18,7 @@
                     },
                     {
                       "id":3,
-                      "image":'https://images-na.ssl-images-amazon.com/images/I/61fslCAtlBL._SX466_.jpg',
+                      "image":"https://images-na.ssl-images-amazon.com/images/I/61fslCAtlBL._SX466_.jpg",
                       "name":"Amazfit Bip Lite Smart Watch",
                       "price":35100,
                       "rating":4.0,
@@ -26,7 +26,7 @@
                     },
                     {
                       "id":4,
-                      "image":'https://www.techgenyz.com/wp-content/uploads/2020/03/xbox-series-x-and-playstation-5.jpg',
+                      "image":"https://www.techgenyz.com/wp-content/uploads/2020/03/xbox-series-x-and-playstation-5.jpg",
                       "name":"playStation 5"
                       "price":40000,
                       "rating":4.6,
@@ -34,7 +34,7 @@
                     },
                     {
                       "id":5,
-                      "image":'https://cdn.shopify.com/s/files/1/2660/5106/products/96C98960_OC3_1400x.jpg?v=1575042437',
+                      "image":"https://cdn.shopify.com/s/files/1/2660/5106/products/96C98960_OC3_1400x.jpg?v=1575042437",
                       "name":"chair",
                       "price"7000,
                       "rating":3.7,
@@ -43,7 +43,7 @@
                 
                     {
                       "id":6,
-                      "image":'https://global.appmifile.com/webfile/globalimg/in/cms/A7442D32-F379-BD0A-4B22-A262258E2756.jpg',
+                      "image":"https://global.appmifile.com/webfile/globalimg/in/cms/A7442D32-F379-BD0A-4B22-A262258E2756.jpg",
                       "name":"tv",
                       "price":21000,
                       "rating":3.9,
@@ -51,7 +51,7 @@
                     },
                     {
                       "id":7,
-                      "image":'https://www.compareprix.in/images/product/large/godrej-rf-gf-2362pth-236-litres-frost-free-double-door-refrigerator-1.jpg',
+                      "image":"https://www.compareprix.in/images/product/large/godrej-rf-gf-2362pth-236-litres-frost-free-double-door-refrigerator-1.jpg",
                       "name": "refrigerator",
                       "price": 15000,
                       "rating": 4.1,
